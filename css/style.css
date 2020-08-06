@@ -273,14 +273,14 @@ hr:after {
 	background-color: white;
 }
 
-/* Portfolios */
-.section .portfolioHeading {
+/* Projects */
+.section .projectsHeading {
 	text-align: center;
 	padding-bottom: 40px;
 	width: 100%;
 }
 
-.portfolioHeading h2 {
+.projectsHeading h2 {
 	font-family: 'Dancing Script', cursive;
 	font-weight: 700;
 }
